@@ -1,0 +1,11 @@
+{
+  "name": "@longwoo/eslint-config-vue-standard",
+  "version": "0.0.1",
+  "description": "Vue eslint 配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "long.woo",
+  "license": "MIT"
+}
