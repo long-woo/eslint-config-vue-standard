@@ -2,9 +2,26 @@
   "name": "@longwoo/eslint-config-vue-standard",
   "version": "0.0.1",
   "description": "Vue eslint 配置",
+  "keywords": [
+    "vue",
+    "eslint",
+    "eslint config",
+    "config",
+    "standard"
+  ],
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/long-woo/eslint-config-vue-standard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/long-woo/eslint-config-vue-standard/issues"
+  },
+  "homepage": "https://github.com/long-woo/eslint-config-vue-standard#readme",
+  "peerDependencies": {
+    "@vue/eslint-config-standard": "^6.0.0",
+    "eslint": "^7.29.0",
+    "eslint-plugin-vue": "^7.11.1"
   },
   "author": "long.woo",
   "license": "MIT"
