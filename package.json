@@ -9,6 +9,12 @@
     "config",
     "standard"
   ],
+  "files": [
+    "index.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
