@@ -1,6 +1,6 @@
 {
   "name": "@longwoo/eslint-config-vue-standard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue eslint 配置",
   "keywords": [
     "vue",
@@ -24,10 +24,16 @@
     "url": "https://github.com/long-woo/eslint-config-vue-standard/issues"
   },
   "homepage": "https://github.com/long-woo/eslint-config-vue-standard#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "peerDependencies": {
-    "@vue/eslint-config-standard": "^6.0.0",
-    "eslint": "^7.29.0",
-    "eslint-plugin-vue": "^7.11.1"
+    "@vue/eslint-config-standard": "^6.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.24.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-vue": "^7.16.0"
   },
   "author": "long.woo",
   "license": "MIT"
