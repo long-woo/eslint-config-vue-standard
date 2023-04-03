@@ -1,7 +1,7 @@
 {
-  "name": "@longwoo/eslint-config-vue-standard",
-  "version": "0.0.2",
-  "description": "Vue eslint 配置",
+  "name": "@loongwoo/eslint-config-vue-standard",
+  "version": "0.0.3",
+  "description": "Vue2 eslint 配置",
   "keywords": [
     "vue",
     "eslint",
@@ -35,6 +35,6 @@
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-vue": "^7.16.0"
   },
-  "author": "long.woo",
+  "author": "loong.woo",
   "license": "MIT"
 }
